@@ -1,0 +1,13 @@
+name: "🚀 Feature Request"
+description: "I have a suggestion for claws!"
+labels: ["feature request"]
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for taking the time to suggest a new feature!
+
+  - type: textarea
+    attributes:
+      label: What problem are you trying to solve? Do you have a suggestion for how to solve it?
+    validations:
+      required: true

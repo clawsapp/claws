@@ -1,0 +1,25 @@
+name: "🐛 Bug Report"
+description: "If something isn't working as expected 🤔."
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for taking the time to file a bug report! Please fill out this form as completely as possible.
+
+  - type: textarea
+    attributes:
+      label: Current and expected behavior
+      description: What is claws doing and what you would expect instead?
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Environment & Operating System
+      description: |
+        What OS are you using? What AWS CLI version do you have installed?
+      placeholder: |
+        macOS Catalina? Windows 10? Ubuntu Linux?
+        2.12.1? 2.11.0?
+    validations:
+      required: true
