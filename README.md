@@ -4,7 +4,8 @@
 
 - 👤 Securely manage local AWS profiles
 - 🛝 Visually explore and execute AWS CLI commands
-- ✨ Search for CLI commands using natural language
+- ✨ Experiment with Amazon Bedrock AI prompts and parameters
+- 🔎 Search for CLI commands using natural language
 - 🔒 Identify required IAM permissions for a command
 - 🎉 Plays nicely with existing processes and workflows
 - 😉 **NOT** another Electron app
