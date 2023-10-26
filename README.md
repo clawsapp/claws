@@ -1,4 +1,4 @@
-![](https://clawsapp.com/assets/images/share.jpg?v=5902a03e)
+![](https://clawsapp.com/assets/images/share.jpg)
 
 ## Features
 
